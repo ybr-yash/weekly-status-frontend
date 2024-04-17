@@ -1,0 +1,13 @@
+.ManagerHeading{
+    width: 80%;
+    height: 20%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+
+.ManagerMainContainer{
+    width: 80%;
+    height: 70%;
+    padding: 2%;
+}
